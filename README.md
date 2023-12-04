@@ -3,7 +3,7 @@
 ## Project Overview
 This project is a simple calculator application that allows users to perform basic mathematical operations like addition, subtraction, multiplication, and division. The specific features and functionalities may vary depending on the implementation.
 
-##Features
+## Features
 - Basic arithmetic operations: Add, subtract, multiply, and divide numbers.
 - Number input: Enter numbers using keyboard or buttons.
 - Output display: Show the entered numbers and results on the screen.
